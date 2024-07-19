@@ -1,0 +1,12 @@
+class Helloworld{
+
+   public sataic void main(string args[]){
+        system.out.println("Hello world");
+
+
+
+   }
+
+
+
+}
