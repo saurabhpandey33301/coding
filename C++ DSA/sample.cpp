@@ -16,7 +16,7 @@ int main(){
 //        cout<<it.first<<" "<<it.second;
 //        cout<<endl;
 //    }
-     int arr[5] = {1,2,2,8,5};
+     int arr[6] = {1,2,2,8,5,9};
      set <int> s;
      for(auto it:arr){
          s.insert(it);
