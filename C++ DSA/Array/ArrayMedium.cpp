@@ -152,16 +152,7 @@ void MajorityElement(int arr[],int size){
 }
 
 
-void KadanesAlgo(int arr[], int size){
-        
-        //largest sum contiguous subarray.....
-        for (int i = 0; i < size; i++)
-        {
-           
-        }
-         
 
-}
 
 
 int main(){
@@ -170,9 +161,4 @@ int main(){
     
     //SortArrayMethod(arr,size);
     //MajorityElement(arr, size);
-    
-    
-    
-    
-    
 }
