@@ -16,13 +16,10 @@ int main(){
 //        cout<<it.first<<" "<<it.second;
 //        cout<<endl;
 //    }
-     int arr[6] = {1,2,2,8,5,9};
-     set <int> s;
-     for(auto it:arr){
-         s.insert(it);
-     }
-    for(auto it:s){
-        cout<<it<<" ";
+    string str = "1+1+1+1=7" ;
+    int n = str.size();
+    for(int i=0;i<n;i++){
+        
     }
     return 0;
 
