@@ -1,3 +1,8 @@
+# IMPORTANT LINKS:
+- Different Type of DSA Patterns for each type of Data Structure: [DSA Pattern](https://whimsical.com/dsa-patterns-47DQdVg8MiLZ1idPyveWFr?fbclid=PAT01DUAQpKK1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeZZROOw-NC2LKa2vpsq8yaSxCNqfMBMVqpXfb8tO2VH26cbc99hcrC_hravg_aem_sU_osMqmLefHYhdb_ACGsg)
+- How to pick a pattern? : [Patterns Pick Flow](https://algo.monster/flowchart)
+- Leetcode question filter based on various patterns: [Leetcode Filter](https://algo.monster/editorials)
+
 # DSA Pattern Learning Roadmap
 
 When starting **Data Structures and Algorithms (DSA)**, avoid jumping directly into advanced topics like Dynamic Programming or Graphs. Follow a progression where each pattern builds on concepts learned previously.
