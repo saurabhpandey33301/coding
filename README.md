@@ -1,284 +1,327 @@
-# IMPORTANT LINKS:
-- Different Type of DSA Patterns for each type of Data Structure: [DSA Pattern](https://whimsical.com/dsa-patterns-47DQdVg8MiLZ1idPyveWFr?fbclid=PAT01DUAQpKK1leHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAaeZZROOw-NC2LKa2vpsq8yaSxCNqfMBMVqpXfb8tO2VH26cbc99hcrC_hravg_aem_sU_osMqmLefHYhdb_ACGsg)
-- How to pick a pattern? : [Patterns Pick Flow](https://algo.monster/flowchart)
-- Leetcode question filter based on various patterns: [Leetcode Filter](https://algo.monster/editorials)
-- DSA Sheet to follow: [Striver A2Z Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) & [Neetcode250 Sheet](https://neetcode.io/practice/practice/neetcode250)
+# 🚀 Data Structures & Algorithms (DSA) Master Roadmap
 
-# DSA Pattern Learning Roadmap
-
-When starting **Data Structures and Algorithms (DSA)**, avoid jumping directly into advanced topics like Dynamic Programming or Graphs. Follow a progression where each pattern builds on concepts learned previously.
+> 🎯 **Goal:** Learn DSA systematically for coding interviews at companies like Amazon, Microsoft, Google, Uber, etc.
 
 ---
 
-## 1. Basics & Complexity Analysis
+# 🔗 Important Resources
 
-Before learning patterns, understand:
+| Resource | Purpose |
+|----------|---------|
+| 🧩 **DSA Patterns** | Helps identify patterns for each data structure |
+| 🔀 **Pattern Selection Flowchart** | Learn how to choose the right approach |
+| 📝 **LeetCode Editorial Filter** | Questions grouped by patterns |
+| 📚 **Striver A2Z Sheet** | Complete DSA preparation |
+| 🎯 **NeetCode 250** | Interview-focused curated problems |
 
-- Time Complexity (Big O)
-- Space Complexity
-- Arrays and Strings fundamentals
-- Recursion basics
+### Links
 
-### Practice Problems
-- Linear Search
-- Binary Search
-- Array Manipulation
+- 🌐 **DSA Patterns:**  
+  https://whimsical.com/dsa-patterns-47DQdVg8MiLZ1idPyveWFr
+
+- 🌐 **Pattern Flowchart:**  
+  https://algo.monster/flowchart
+
+- 🌐 **LeetCode Editorials:**  
+  https://algo.monster/editorials
+
+- 🌐 **Striver A2Z Sheet:**  
+  https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+
+- 🌐 **NeetCode 250:**  
+  https://neetcode.io/practice/practice/neetcode250
 
 ---
 
-## 2. Traversal Patterns
+# 🛣️ DSA Learning Roadmap
 
-Learn how to iterate efficiently through data structures.
+> ⚠️ **Important:** Don't jump directly into Graphs or Dynamic Programming.
 
-### Topics
+Learn in the following sequence:
+
+---
+
+## 🟢 Phase 1 — Fundamentals
+
+### 📌 Topics
+
+- ⏱️ Time Complexity (Big O)
+- 💾 Space Complexity
+- 🔢 Arrays Basics
+- 🔤 Strings Basics
+- 🔁 Recursion Fundamentals
+
+### 📝 Practice
+
+- ✅ Linear Search
+- ✅ Binary Search
+- ✅ Basic Array Manipulation
+
+---
+
+## 🟢 Phase 2 — Traversal Patterns
+
+> Traverse data structures efficiently.
+
+### 📚 Topics
+
 - Array Traversal
 - String Traversal
 - Matrix Traversal
 
-### Practice Problems
-- Find Maximum Element
-- Reverse an Array
-- Rotate Array
+### 📝 Problems
+
+- ✅ Find Maximum Element
+- ✅ Reverse Array
+- ✅ Rotate Array
 
 ---
 
-## 3. Two Pointers
+## 🟢 Phase 3 — Two Pointers
 
-One of the most important beginner-friendly patterns.
+> ⭐ One of the highest-frequency interview patterns.
 
-### When to Use
-- Sorted Arrays
-- Palindrome Problems
-- Pair Sum Problems
+### 🕒 Use When
 
-### Practice Problems
-- Two Sum (Sorted Array)
-- Remove Duplicates
-- Container With Most Water
-- Valid Palindrome
+- 🟢 Sorted Arrays
+- 🟢 Palindrome Problems
+- 🟢 Pair Sum Problems
 
----
+### 📝 Problems
 
-## 4. Sliding Window
-
-An extension of the Two Pointers technique.
-
-### When to Use
-- Subarray Problems
-- Substring Problems
-- Fixed-Size Windows
-- Variable-Size Windows
-
-### Practice Problems
-- Maximum Sum Subarray
-- Longest Substring Without Repeating Characters
-- Minimum Window Substring
+- ✅ Two Sum II
+- ✅ Remove Duplicates from Sorted Array
+- ✅ Container With Most Water
+- ✅ Valid Palindrome
 
 ---
 
-## 5. Hashing Pattern
+## 🟢 Phase 4 — Sliding Window
 
-Learn HashMap and HashSet thoroughly.
+> Extension of Two Pointers.
 
-### When to Use
-- Frequency Counting
-- Fast Lookups
-- Duplicate Detection
+### 🕒 Use When
 
-### Practice Problems
-- Two Sum
-- Group Anagrams
-- Top K Frequent Elements
+- 🟢 Subarray Problems
+- 🟢 Substring Problems
+- 🟢 Fixed Window
+- 🟢 Variable Window
 
----
+### 📝 Problems
 
-## 6. Prefix Sum
-
-Useful for range query problems.
-
-### Practice Problems
-- Range Sum Query
-- Subarray Sum Equals K
+- ✅ Maximum Sum Subarray
+- ✅ Longest Substring Without Repeating Characters
+- ✅ Minimum Window Substring
 
 ---
 
-## 7. Binary Search Pattern
+## 🟢 Phase 5 — Hashing
 
-Not limited to searching in sorted arrays.
+> Learn HashMap and HashSet thoroughly.
 
-### Topics
+### 🕒 Use When
+
+- 🟢 Frequency Counting
+- 🟢 Fast Lookups
+- 🟢 Duplicate Detection
+
+### 📝 Problems
+
+- ✅ Two Sum
+- ✅ Group Anagrams
+- ✅ Top K Frequent Elements
+
+---
+
+## 🟢 Phase 6 — Prefix Sum
+
+### 📝 Problems
+
+- ✅ Range Sum Query
+- ✅ Subarray Sum Equals K
+
+---
+
+## 🟢 Phase 7 — Binary Search
+
+> Binary Search is not just for searching.
+
+### 📚 Topics
+
 - Classic Binary Search
 - Binary Search on Answer
 
-### Practice Problems
-- Search Insert Position
-- Koko Eating Bananas
-- Capacity To Ship Packages Within D Days
+### 📝 Problems
+
+- ✅ Search Insert Position
+- ✅ Koko Eating Bananas
+- ✅ Capacity To Ship Packages Within D Days
 
 ---
 
-## 8. Linked List Patterns
+## 🟢 Phase 8 — Linked Lists
 
-### Important Patterns
+### ⭐ Important Patterns
+
 - Fast & Slow Pointer
 - Reverse Linked List
 - Cycle Detection
 
-### Practice Problems
-- Reverse Linked List
-- Middle of Linked List
-- Linked List Cycle
+### 📝 Problems
+
+- ✅ Reverse Linked List
+- ✅ Middle of Linked List
+- ✅ Linked List Cycle
 
 ---
 
-## 9. Stack Pattern
+## 🟢 Phase 9 — Stack
 
-### Topics
-- Stack Fundamentals
+### 📚 Topics
+
+- Stack Basics
 - Monotonic Stack
 - Next Greater Element
 
-### Practice Problems
-- Valid Parentheses
-- Daily Temperatures
-- Largest Rectangle in Histogram
+### 📝 Problems
+
+- ✅ Valid Parentheses
+- ✅ Daily Temperatures
+- ✅ Largest Rectangle in Histogram
 
 ---
 
-## 10. Queue & Deque Pattern
+## 🟢 Phase 10 — Queue & Deque
 
-### Practice Problems
-- Sliding Window Maximum
-- Implement Queue Using Stacks
-- BFS Basics
+### 📝 Problems
 
----
-
-## 11. Tree Traversal Patterns
-
-### DFS Traversals
-- Preorder
-- Inorder
-- Postorder
-
-### BFS Traversal
-- Level Order Traversal
-
-### Practice Problems
-- Maximum Depth of Binary Tree
-- Invert Binary Tree
-- Binary Tree Level Order Traversal
+- ✅ Sliding Window Maximum
+- ✅ Implement Queue Using Stacks
+- ✅ BFS Basics
 
 ---
 
-## 12. Backtracking
+# 🌳 Phase 11 — Trees
 
-### When to Use
-- Generating All Possibilities
-- Decision Trees
-- Constraint Satisfaction Problems
+## DFS Traversals
 
-### Practice Problems
-- Subsets
-- Permutations
-- N-Queens
-- Sudoku Solver
+- 🌲 Preorder
+- 🌲 Inorder
+- 🌲 Postorder
 
----
+## BFS Traversal
 
-## 13. Heap / Priority Queue
+- 🌲 Level Order Traversal
 
-### Practice Problems
-- K Largest Elements
-- Top K Frequent Elements
-- Merge K Sorted Lists
+### 📝 Problems
+
+- ✅ Maximum Depth of Binary Tree
+- ✅ Invert Binary Tree
+- ✅ Binary Tree Level Order Traversal
 
 ---
 
-## 14. Greedy Algorithms
+# 🔄 Phase 12 — Backtracking
 
-### Practice Problems
-- Jump Game
-- Activity Selection
-- Gas Station
+> Generate all possible solutions.
 
----
+### 🕒 Use When
 
-## 15. Graph Patterns
+- 🟢 Generate all combinations
+- 🟢 Constraint Satisfaction
+- 🟢 Decision Trees
 
-### Topics
-- BFS
-- DFS
-- Topological Sort
-- Union Find (Disjoint Set Union)
+### 📝 Problems
 
-### Practice Problems
-- Number of Islands
-- Course Schedule
-- Clone Graph
+- ✅ Subsets
+- ✅ Permutations
+- ✅ N Queens
+- ✅ Sudoku Solver
 
 ---
 
-## 16. Dynamic Programming (DP)
+# 🏔️ Phase 13 — Heap / Priority Queue
 
-Start DP only after becoming comfortable with recursion.
+### 📝 Problems
 
-### Recommended DP Order
-
-1. Fibonacci
-2. 0/1 Knapsack
-3. Longest Common Subsequence (LCS)
-4. Longest Increasing Subsequence (LIS)
-5. DP on Trees
+- ✅ K Largest Elements
+- ✅ Top K Frequent Elements
+- ✅ Merge K Sorted Lists
 
 ---
 
-# Complete Roadmap
+# 🎯 Phase 14 — Greedy Algorithms
+
+### 📝 Problems
+
+- ✅ Jump Game
+- ✅ Activity Selection
+- ✅ Gas Station
+
+---
+
+# 🌐 Phase 15 — Graphs
+
+### 📚 Topics
+
+- ✅ BFS
+- ✅ DFS
+- ✅ Topological Sort
+- ✅ Union Find (DSU)
+
+### 📝 Problems
+
+- ✅ Number of Islands
+- ✅ Course Schedule
+- ✅ Clone Graph
+
+---
+
+# 🔥 Phase 16 — Dynamic Programming
+
+> Start DP only after becoming comfortable with recursion.
+
+## Recommended DP Order
+
+| Step | Topic |
+|------|-------|
+| 1️⃣ | Fibonacci |
+| 2️⃣ | 0/1 Knapsack |
+| 3️⃣ | Longest Common Subsequence (LCS) |
+| 4️⃣ | Longest Increasing Subsequence (LIS) |
+| 5️⃣ | DP on Trees |
+
+---
+
+# 🗺️ Complete Visual Roadmap
 
 ```text
-Arrays
-   ↓
-Hashing
-   ↓
-Two Pointers
-   ↓
-Sliding Window
-   ↓
-Prefix Sum
-   ↓
-Binary Search
-   ↓
-Linked List
-   ↓
-Stack
-   ↓
-Queue
-   ↓
-Trees
-   ↓
-Backtracking
-   ↓
-Heap
-   ↓
-Greedy
-   ↓
-Graphs
-   ↓
-Dynamic Programming
-```
-
----
-
-# Interview-Focused Priority Order
-
-If your goal is preparing for interviews at companies like Microsoft, Amazon, Google, Uber, etc., focus most heavily on:
-
-1. Arrays & Hashing
-2. Two Pointers
-3. Sliding Window
-4. Binary Search
-5. Trees
-6. Graphs
-7. Dynamic Programming
-
-These seven areas cover a significant portion of coding interview questions across major tech companies.
+🟩 Arrays
+      ↓
+🟦 Hashing
+      ↓
+🟨 Two Pointers
+      ↓
+🟧 Sliding Window
+      ↓
+🟪 Prefix Sum
+      ↓
+🔵 Binary Search
+      ↓
+🟢 Linked List
+      ↓
+🟤 Stack
+      ↓
+⚫ Queue
+      ↓
+🌳 Trees
+      ↓
+🔄 Backtracking
+      ↓
+🏔️ Heap
+      ↓
+🎯 Greedy
+      ↓
+🌐 Graphs
+      ↓
+🔥 Dynamic Programming
