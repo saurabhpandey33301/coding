@@ -22,5 +22,10 @@ int main (){
     // cout<<size<<endl;
     // cout<<str1<<endl;
     //cout<<str2<<endl;
+
+    //string wordA = "saurabhPandey";
+    //string wordB = "saurabh";
+    //cout << wordA.contains(wordB);
+
     
 }
