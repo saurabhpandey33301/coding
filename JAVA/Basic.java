@@ -4,7 +4,6 @@ import java.util.Scanner;
 /*
  * ==========================================================
  *  JAVA BASICS — BEGINNER LEARNING FILE
- *  (Improved version of the original file with extra notes)
  * ==========================================================
  *
  * MEMORY MODEL (important to visualize as you read the code):
