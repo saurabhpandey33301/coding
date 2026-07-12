@@ -1,6 +1,6 @@
 public class CollectionsLearn {
     public static void main(String[] args) {
-        System.out.println("Welcome to Data structure file");
+        System.out.println("Welcome to learning Collections in Java");
 
         //Array -> store multiple values of a common type (like int, String)
         int[] arr = {1,2,3};

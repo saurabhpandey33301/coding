@@ -57,6 +57,7 @@ class Calculator {
 public class BasicLearn {
     public static void main(String[] args) {
         System.out.println("Hello world");
+        System.out.println("Welcome to learning Basics of Java");
 
         // ----------------------------------------------------
         // 1. VARIABLES & PRIMITIVE DATA TYPES
