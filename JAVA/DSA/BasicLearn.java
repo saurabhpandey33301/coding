@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
 /*
  * ==========================================================
  *  JAVA BASICS — BEGINNER LEARNING FILE
@@ -53,7 +54,7 @@ class Calculator {
     }
 }
 
-public class Basic {
+public class BasicLearn {
     public static void main(String[] args) {
         System.out.println("Hello world");
 
