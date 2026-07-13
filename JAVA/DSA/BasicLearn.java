@@ -315,9 +315,9 @@ public class BasicLearn {
  *   | Octal (int)         | %o        | 10  -> 12     |
  *
  * NEXT TOPICS TO LEARN AFTER THIS FILE:
- *   1. static vs instance members (why "main" is static)
- *   2. Inheritance, interfaces, and polymorphism
- *   3. HashMap / HashSet / TreeMap (used constantly in real code)
- *   4. Exception hierarchy: checked vs unchecked exceptions
- *   5. Generics (the <Integer> style syntax you saw in ArrayList)
+ *   1. static vs instance members (why "main" is static) => Classes&MethodsLearn.java
+ *   2. Inheritance, interfaces, and polymorphism => OopsLearn.java
+ *   3. HashMap / HashSet / TreeMap (used constantly in real code) => CollectionsLearn.java
+ *   4. Exception hierarchy: checked vs unchecked exceptions => not covered yet.
+ *   5. Generics (the <Integer> style syntax you saw in ArrayList) => CollectionsLearn.java
  */
