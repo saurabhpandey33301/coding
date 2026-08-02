@@ -390,8 +390,8 @@ public class StringLearn {
         String formatted1 = String.format("Name: %s, Age: %d, Score: %.2f", "Saurabh", 25, 91.567);
         System.out.println(formatted1);
         System.out.printf("printf directly -> Name: %s, Age: %d%n", "Saurabh", 25); // printf writes directly to System.out
-        String formatted2 = "Name: %s, Age: %d".formatted("Saurabh", 25); // Java 15+ instance method, same as String.format
-        System.out.println(formatted2);
+        //String formatted2 = "Name: %s, Age: %d".formatted("Saurabh", 25); // Java 15+ instance method, same as String.format
+        //System.out.println(formatted2);
 
         /*
         =====================================================

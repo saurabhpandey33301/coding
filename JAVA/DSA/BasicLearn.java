@@ -172,22 +172,22 @@ public class BasicLearn {
         // otherwise execution would "fall through" into the next case.
         // Modern Java (14+) lets you use "->" and it auto-breaks — no
         // fall-through bugs, and it can directly return/assign a value.
-        String ans = switch (n) {
-            case 1 -> "Monday";
-            case 2 -> "Tuesday";
-            case 3 -> "Wednesday";
-            default -> "No day";
-        };
-        System.out.println("Arrow-style switch result: " + ans);
+        // String ans = switch (n) {
+        //     case 1 -> "Monday";
+        //     case 2 -> "Tuesday";
+        //     case 3 -> "Wednesday";
+        //     default -> "No day";
+        // };
+        //System.out.println("Arrow-style switch result: " + ans);
 
         // Same idea, but using "yield" when you need a code block
         // instead of a single expression per case.
-        ans = switch (n) {
-            case 1: yield "Monday";
-            case 2: yield "Tuesday";
-            default: yield "No day";
-        };
-        System.out.println("Yield-style switch result: " + ans);
+        // ans = switch (n) {
+        //     case 1: yield "Monday";
+        //     case 2: yield "Tuesday";
+        //     default: yield "No day";
+        // };
+        //System.out.println("Yield-style switch result: " + ans);
 
         // ----------------------------------------------------
         // 8. LOOPS (syntax is basically identical to C++)

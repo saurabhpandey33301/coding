@@ -34,7 +34,7 @@ class Human
 }
 
 
-class AdvanceCalc extends Calculator{
+class AdvanceCalc extends Calc{
     int mul(int a,int b){
         return a*b;
     }
@@ -112,8 +112,9 @@ public class OopsLearn {
         
         //Polymorphism
         // poly -> Many ; morphism -> Behaviour
-        // Compiler time polymorphism
-        // Run time polymorphism.
+        // Compiler time polymorphism // early binding => ex. (overlaoding)
+        // Run time polymorphism. //late binding => ex. (overriding)
+
         
 
 
