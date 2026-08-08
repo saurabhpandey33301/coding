@@ -164,6 +164,7 @@ public class BasicLearn {
         try (Scanner sc = new Scanner(System.in)) {
             n = sc.nextInt();
         }
+        System.out.println(n);
 
         // ----------------------------------------------------
         // 7. SWITCH STATEMENT (modern Java style)
