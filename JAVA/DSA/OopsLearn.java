@@ -110,12 +110,14 @@ public class OopsLearn {
         ClassB cb = new ClassB(2);  // to see constructor class & super()
         cb.show(); // caling overrided method show of A that is present in B
         
-        //Polymorphism
+        // Polymorphism
         // poly -> Many ; morphism -> Behaviour
         // Compiler time polymorphism // early binding => ex. (overlaoding)
         // Run time polymorphism. //late binding => ex. (overriding)
+        // same object will have diffefent behavior based on how you create instance of it.
+        //
 
-        
+            
 
 
 
