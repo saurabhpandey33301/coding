@@ -265,6 +265,7 @@ public class BasicLearn {
         } finally {
             System.out.println("This 'finally' block always runs, error or not.");
         }
+        System.out.println("Basic Java program finished executing.");
     }
 }
 
